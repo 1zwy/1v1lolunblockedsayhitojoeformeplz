@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "1v1 LOL! unblocked"
+  },
+  "description": {
+    "message": "1v1 LOL Unblocked cool building simulator and third person shooting game. Fight to survive in this epic multiplayer!"
+  },
+  "play": {
+    "message": "Play"
+  },
+  "got_it": {
+    "message": "OK, got it"
+  },
+  "installed": {
+    "message": "Game extension is installed"
+  }
+}
